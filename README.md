@@ -1,1 +1,7 @@
 # ML-Projects-on-Python
+
+Here I am using Various Machine Learning Models and explained each of the models with an example.
+
+POWERBI and TABLEAU can also be used.
+
+Probability and Statistics are also done using Python.
