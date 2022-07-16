@@ -1,6 +1,6 @@
 # ML-Projects-on-Python
 
-Here I am using Various Machine Learning Models and explained each of the models with an example.
+Here I used Various Machine Learning Models and explained each of the models with an example.
 
 POWERBI and TABLEAU can also be used.
 
